@@ -9,7 +9,7 @@ In the real world, if you dig and dig and dig down, it's going to get hot and th
 sort of "simulate" this. I also added items to the mix in order to incorporate the ArrayList and DefaultModelList.
 
 ### How to Play
-The goal of the game is to get as much EXP as possible (this is your score at the end). To do this, you need to defeat enemies while doing upgrades and keeping an eye on the various gagues. You can use "Heal" as much as you like, so make sure to keep using it to stay alive! Enemies and having too high temperature or pressure will damage you, and the game is over when your HP hits 0.
+The goal of the game is to get as much EXP as possible (this is your score at the end). To do this, you need to defeat enemies while doing upgrades and keeping an eye on the various gauges. You can use "Heal" as much as you like, so make sure to keep using it to stay alive! Enemies and having too high temperature or pressure will damage you, and the game is over when your HP hits 0.
 
 ### The Files and their functions
 - Core.java - This is the GUI, as well as where most of the program logic resides (like upgrades, the list of items, the gameplay etc.)
